@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1570735156 source:/media/mostafanabil198/New Volume/Kolya/3rd-year/1st-term/os/assignments/code/assignment-1/main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/wait.h>
+	<bits/stdc++.h>
+	<signal.h>
+	<time.h>
+
